@@ -9,5 +9,7 @@
 #include <util/delay.h>
 #include <avr/eeprom.h>
 
+#define DOOR_PIN 		PD5
+#define LED_PIN			PB0
 
 #endif
